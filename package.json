@@ -1,0 +1,8 @@
+{
+  "name": "grok-console",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Grok Director console",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
